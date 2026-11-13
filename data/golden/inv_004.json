@@ -1,0 +1,47 @@
+{
+  "file": "inv_004.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0004",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-02-02",
+    "due_date": "2026-03-19",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 2,
+        "unit_price": 15494.29,
+        "amount": 30988.58
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 18,
+        "unit_price": 10718.43,
+        "amount": 192931.74
+      },
+      {
+        "description": "Office chair",
+        "quantity": 15,
+        "unit_price": 14659.77,
+        "amount": 219896.55
+      },
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 12,
+        "unit_price": 7529.19,
+        "amount": 90350.28
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 8,
+        "unit_price": 2092.28,
+        "amount": 16738.24
+      }
+    ],
+    "subtotal": 550905.39,
+    "tax_rate": 28,
+    "tax_amount": 154253.51,
+    "total": 705158.9
+  },
+  "defect": null
+}

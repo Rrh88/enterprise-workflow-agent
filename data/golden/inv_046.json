@@ -1,0 +1,23 @@
+{
+  "file": "inv_046.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0046",
+    "vendor_name": "Bluewave Consulting",
+    "invoice_date": "2026-07-21",
+    "due_date": "2026-07-11",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 6,
+        "unit_price": 16097.97,
+        "amount": 96587.82
+      }
+    ],
+    "subtotal": 96587.82,
+    "tax_rate": 12,
+    "tax_amount": 11590.54,
+    "total": 108178.36
+  },
+  "defect": "bad_dates"
+}

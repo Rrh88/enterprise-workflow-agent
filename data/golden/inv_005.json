@@ -1,0 +1,35 @@
+{
+  "file": "inv_005.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0005",
+    "vendor_name": "Noida Office Mart",
+    "invoice_date": "2026-08-18",
+    "due_date": "2026-10-02",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 20,
+        "unit_price": 24505.36,
+        "amount": 490107.2
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 17,
+        "unit_price": 10482.16,
+        "amount": 178196.72
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 5,
+        "unit_price": 23335.09,
+        "amount": 116675.45
+      }
+    ],
+    "subtotal": 784979.37,
+    "tax_rate": 5,
+    "tax_amount": 39248.97,
+    "total": 824228.34
+  },
+  "defect": null
+}

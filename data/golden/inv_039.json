@@ -1,0 +1,23 @@
+{
+  "file": "inv_039.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0039",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-08-31",
+    "due_date": "2026-09-30",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Printing service",
+        "quantity": 10,
+        "unit_price": 11501.32,
+        "amount": 115013.2
+      }
+    ],
+    "subtotal": 115013.2,
+    "tax_rate": 28,
+    "tax_amount": 32253.7,
+    "total": 147216.9
+  },
+  "defect": "wrong_tax"
+}

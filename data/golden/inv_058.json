@@ -1,0 +1,23 @@
+{
+  "file": "inv_058.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0058",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-05-24",
+    "due_date": "2026-06-23",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 12,
+        "unit_price": 10533.57,
+        "amount": 126402.84
+      }
+    ],
+    "subtotal": 126402.84,
+    "tax_rate": 12,
+    "tax_amount": 15168.34,
+    "total": 141571.18
+  },
+  "defect": null
+}

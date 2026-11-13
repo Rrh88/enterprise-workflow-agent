@@ -1,0 +1,41 @@
+{
+  "file": "inv_008.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0008",
+    "vendor_name": "Ganga Logistics",
+    "invoice_date": "2026-07-20",
+    "due_date": "2026-08-04",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Network cable (50m)",
+        "quantity": 3,
+        "unit_price": 4200.84,
+        "amount": 12602.52
+      },
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 18,
+        "unit_price": 6982.09,
+        "amount": 125677.62
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 14,
+        "unit_price": 21606.41,
+        "amount": 302489.74
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 14,
+        "unit_price": 24662.35,
+        "amount": 345272.9
+      }
+    ],
+    "subtotal": 786042.78,
+    "tax_rate": 12,
+    "tax_amount": 94375.13,
+    "total": 880367.91
+  },
+  "defect": "wrong_tax"
+}

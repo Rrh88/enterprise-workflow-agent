@@ -1,0 +1,23 @@
+{
+  "file": "inv_034.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0034",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-03-16",
+    "due_date": "2026-04-30",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Printing service",
+        "quantity": 17,
+        "unit_price": 15701.94,
+        "amount": 266932.98
+      }
+    ],
+    "subtotal": 266932.98,
+    "tax_rate": 12,
+    "tax_amount": 32031.96,
+    "total": 298964.94
+  },
+  "defect": null
+}

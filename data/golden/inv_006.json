@@ -1,0 +1,35 @@
+{
+  "file": "inv_006.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0006",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-06-10",
+    "due_date": "2026-07-25",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 12,
+        "unit_price": 14879.53,
+        "amount": 178554.36
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 15,
+        "unit_price": 1765.64,
+        "amount": 26484.6
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 9,
+        "unit_price": 11878.75,
+        "amount": 106908.75
+      }
+    ],
+    "subtotal": 311947.71,
+    "tax_rate": 5,
+    "tax_amount": 15597.39,
+    "total": 327545.1
+  },
+  "defect": null
+}

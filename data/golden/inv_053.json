@@ -1,0 +1,41 @@
+{
+  "file": "inv_053.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0053",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-05-05",
+    "due_date": "2026-05-20",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 17,
+        "unit_price": 5907.46,
+        "amount": 100426.82
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 1,
+        "unit_price": 24017.33,
+        "amount": 24017.33
+      },
+      {
+        "description": "Office chair",
+        "quantity": 2,
+        "unit_price": 593.6,
+        "amount": 1187.2
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 14,
+        "unit_price": 2073.25,
+        "amount": 29025.5
+      }
+    ],
+    "subtotal": 154656.85,
+    "tax_rate": 28,
+    "tax_amount": 43303.92,
+    "total": 197960.77
+  },
+  "defect": null
+}

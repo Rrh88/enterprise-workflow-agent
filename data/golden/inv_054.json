@@ -1,0 +1,41 @@
+{
+  "file": "inv_054.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0054",
+    "vendor_name": "Bluewave Consulting",
+    "invoice_date": "2026-06-23",
+    "due_date": "2026-06-13",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 12,
+        "unit_price": 17080.04,
+        "amount": 204960.48
+      },
+      {
+        "description": "Printing service",
+        "quantity": 1,
+        "unit_price": 19936.75,
+        "amount": 19936.75
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 3,
+        "unit_price": 5170.2,
+        "amount": 15510.6
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 10,
+        "unit_price": 19158.13,
+        "amount": 191581.3
+      }
+    ],
+    "subtotal": 431989.13,
+    "tax_rate": 12,
+    "tax_amount": 51838.7,
+    "total": 483827.83
+  },
+  "defect": "bad_dates"
+}

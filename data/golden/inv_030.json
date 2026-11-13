@@ -1,0 +1,35 @@
+{
+  "file": "inv_030.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0028",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-08-02",
+    "due_date": "2026-09-16",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Printing service",
+        "quantity": 20,
+        "unit_price": 3274.16,
+        "amount": 65483.2
+      },
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 8,
+        "unit_price": 23456.24,
+        "amount": 187649.92
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 9,
+        "unit_price": 1306.97,
+        "amount": 11762.73
+      }
+    ],
+    "subtotal": 264895.85,
+    "tax_rate": 18,
+    "tax_amount": 47681.25,
+    "total": 312577.1
+  },
+  "defect": "duplicate"
+}

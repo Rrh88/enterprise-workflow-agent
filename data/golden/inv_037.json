@@ -1,0 +1,41 @@
+{
+  "file": "inv_037.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0037",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-08-24",
+    "due_date": "2026-08-14",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 13,
+        "unit_price": 1964.66,
+        "amount": 25540.58
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 2,
+        "unit_price": 15443.5,
+        "amount": 30887.0
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 3,
+        "unit_price": 15012.65,
+        "amount": 45037.95
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 9,
+        "unit_price": 16305.78,
+        "amount": 146752.02
+      }
+    ],
+    "subtotal": 248217.55,
+    "tax_rate": 12,
+    "tax_amount": 29786.11,
+    "total": 278003.66
+  },
+  "defect": "bad_dates"
+}

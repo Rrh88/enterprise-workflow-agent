@@ -1,0 +1,29 @@
+{
+  "file": "inv_001.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0001",
+    "vendor_name": "Delta Print Works",
+    "invoice_date": "2026-06-15",
+    "due_date": "2026-06-30",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 13,
+        "unit_price": 16290.82,
+        "amount": 211780.66
+      },
+      {
+        "description": "Software licence",
+        "quantity": 18,
+        "unit_price": 2398.54,
+        "amount": 43173.72
+      }
+    ],
+    "subtotal": 254954.38,
+    "tax_rate": 5,
+    "tax_amount": 12747.72,
+    "total": 267702.1
+  },
+  "defect": null
+}

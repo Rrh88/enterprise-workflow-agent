@@ -1,0 +1,29 @@
+{
+  "file": "inv_060.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0060",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-05-12",
+    "due_date": "2026-06-26",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 3,
+        "unit_price": 22468.87,
+        "amount": 67406.61
+      },
+      {
+        "description": "Software licence",
+        "quantity": 12,
+        "unit_price": 6844.25,
+        "amount": 82131.0
+      }
+    ],
+    "subtotal": 149537.61,
+    "tax_rate": 5,
+    "tax_amount": 7476.88,
+    "total": 157014.49
+  },
+  "defect": null
+}

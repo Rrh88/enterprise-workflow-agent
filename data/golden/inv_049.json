@@ -1,0 +1,41 @@
+{
+  "file": "inv_049.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0049",
+    "vendor_name": "Bluewave Consulting",
+    "invoice_date": "2026-07-24",
+    "due_date": "2026-08-08",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "quantity": 14,
+        "unit_price": 23850.89,
+        "amount": 333912.46
+      },
+      {
+        "description": "Office chair",
+        "quantity": 5,
+        "unit_price": 854.48,
+        "amount": 4272.4
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 19,
+        "unit_price": 12271.12,
+        "amount": 233151.28
+      },
+      {
+        "description": "Printing service",
+        "quantity": 13,
+        "unit_price": 23259.45,
+        "amount": 302372.85
+      }
+    ],
+    "subtotal": 873708.99,
+    "tax_rate": 28,
+    "tax_amount": 244638.52,
+    "total": 1118347.51
+  },
+  "defect": null
+}

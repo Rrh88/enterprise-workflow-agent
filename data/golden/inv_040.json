@@ -1,0 +1,29 @@
+{
+  "file": "inv_040.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0040",
+    "vendor_name": "Noida Office Mart",
+    "invoice_date": "2026-02-16",
+    "due_date": "2026-04-02",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 17,
+        "unit_price": 6582.13,
+        "amount": 111896.21
+      },
+      {
+        "description": "Printing service",
+        "quantity": 5,
+        "unit_price": 15103.98,
+        "amount": 75519.9
+      }
+    ],
+    "subtotal": 187416.11,
+    "tax_rate": 18,
+    "tax_amount": 33734.9,
+    "total": 221151.01
+  },
+  "defect": null
+}

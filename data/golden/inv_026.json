@@ -1,0 +1,47 @@
+{
+  "file": "inv_026.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0026",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-06-01",
+    "due_date": "2026-06-16",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 3,
+        "unit_price": 2865.61,
+        "amount": 8596.83
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 4,
+        "unit_price": 2147.33,
+        "amount": 8589.32
+      },
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 2,
+        "unit_price": 22652.17,
+        "amount": 45304.34
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 9,
+        "unit_price": 18906.62,
+        "amount": 170159.58
+      },
+      {
+        "description": "Printing service",
+        "quantity": 9,
+        "unit_price": 10178.4,
+        "amount": 91605.6
+      }
+    ],
+    "subtotal": 324255.67,
+    "tax_rate": 28,
+    "tax_amount": 90991.59,
+    "total": 415047.26
+  },
+  "defect": "wrong_tax"
+}

@@ -1,0 +1,29 @@
+{
+  "file": "inv_024.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0024",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-08-28",
+    "due_date": "2026-10-12",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 4,
+        "unit_price": 9986.51,
+        "amount": 39946.04
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 6,
+        "unit_price": 24747.29,
+        "amount": 148483.74
+      }
+    ],
+    "subtotal": 188429.78,
+    "tax_rate": 12,
+    "tax_amount": 22611.57,
+    "total": 211041.35
+  },
+  "defect": null
+}

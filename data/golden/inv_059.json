@@ -1,0 +1,41 @@
+{
+  "file": "inv_059.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0059",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-06-08",
+    "due_date": "2026-07-08",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 1278.97,
+        "amount": 3836.91
+      },
+      {
+        "description": "Office chair",
+        "quantity": 7,
+        "unit_price": 9349.22,
+        "amount": 65444.54
+      },
+      {
+        "description": "Office chair",
+        "quantity": 7,
+        "unit_price": 8116.56,
+        "amount": 56815.92
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 1,
+        "unit_price": 15809.97,
+        "amount": 15809.97
+      }
+    ],
+    "subtotal": 141907.34,
+    "tax_rate": 28,
+    "tax_amount": 39734.06,
+    "total": 181741.4
+  },
+  "defect": "wrong_total"
+}

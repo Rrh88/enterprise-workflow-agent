@@ -1,0 +1,23 @@
+{
+  "file": "inv_019.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0019",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-04-19",
+    "due_date": "2026-05-19",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Printing service",
+        "quantity": 9,
+        "unit_price": 5358.86,
+        "amount": 48229.74
+      }
+    ],
+    "subtotal": 48229.74,
+    "tax_rate": 12,
+    "tax_amount": 5787.57,
+    "total": 54017.31
+  },
+  "defect": null
+}

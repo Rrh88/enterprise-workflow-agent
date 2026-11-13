@@ -1,0 +1,29 @@
+{
+  "file": "inv_048.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0048",
+    "vendor_name": "Delta Print Works",
+    "invoice_date": "2026-09-26",
+    "due_date": "2026-10-11",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "quantity": 13,
+        "unit_price": 6792.48,
+        "amount": 88302.24
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 16,
+        "unit_price": 6974.03,
+        "amount": 111584.48
+      }
+    ],
+    "subtotal": 199886.72,
+    "tax_rate": 12,
+    "tax_amount": 24186.41,
+    "total": 223873.13
+  },
+  "defect": "wrong_tax"
+}

@@ -1,0 +1,47 @@
+{
+  "file": "inv_014.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0014",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-05-14",
+    "due_date": "2026-05-29",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 12,
+        "unit_price": 22711.05,
+        "amount": 272532.6
+      },
+      {
+        "description": "Printing service",
+        "quantity": 8,
+        "unit_price": 13338.18,
+        "amount": 106705.44
+      },
+      {
+        "description": "Software licence",
+        "quantity": 11,
+        "unit_price": 15929.23,
+        "amount": 175221.53
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 7,
+        "unit_price": 20161.66,
+        "amount": 141131.62
+      },
+      {
+        "description": "Office chair",
+        "quantity": 8,
+        "unit_price": 5037.95,
+        "amount": 40303.6
+      }
+    ],
+    "subtotal": 735894.79,
+    "tax_rate": 18,
+    "tax_amount": 132461.06,
+    "total": 868355.85
+  },
+  "defect": null
+}

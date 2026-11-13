@@ -1,0 +1,35 @@
+{
+  "file": "inv_003.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0003",
+    "vendor_name": "Noida Office Mart",
+    "invoice_date": "2026-03-10",
+    "due_date": "2026-04-24",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 14,
+        "unit_price": 3649.16,
+        "amount": 51088.24
+      },
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 19,
+        "unit_price": 7746.62,
+        "amount": 147185.78
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 4,
+        "unit_price": 14560.92,
+        "amount": 58243.68
+      }
+    ],
+    "subtotal": 256517.7,
+    "tax_rate": 18,
+    "tax_amount": 46173.19,
+    "total": 302690.89
+  },
+  "defect": null
+}

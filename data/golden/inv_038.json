@@ -1,0 +1,29 @@
+{
+  "file": "inv_038.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0038",
+    "vendor_name": "Delta Print Works",
+    "invoice_date": "2026-02-20",
+    "due_date": "2026-03-22",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Printing service",
+        "quantity": 16,
+        "unit_price": 7306.87,
+        "amount": 116909.92
+      },
+      {
+        "description": "Office chair",
+        "quantity": 10,
+        "unit_price": 11643.34,
+        "amount": 116433.4
+      }
+    ],
+    "subtotal": 233343.32,
+    "tax_rate": 5,
+    "tax_amount": 11667.17,
+    "total": 245010.49
+  },
+  "defect": null
+}

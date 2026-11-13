@@ -1,0 +1,23 @@
+{
+  "file": "inv_056.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0056",
+    "vendor_name": "Ganga Logistics",
+    "invoice_date": "2026-06-10",
+    "due_date": "2026-07-25",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 3,
+        "unit_price": 23293.31,
+        "amount": 69879.93
+      }
+    ],
+    "subtotal": 69879.93,
+    "tax_rate": 12,
+    "tax_amount": 8385.59,
+    "total": 78265.52
+  },
+  "defect": null
+}

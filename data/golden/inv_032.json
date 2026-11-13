@@ -1,0 +1,35 @@
+{
+  "file": "inv_032.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0032",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-04-22",
+    "due_date": "2026-05-07",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Network cable (50m)",
+        "quantity": 6,
+        "unit_price": 76.67,
+        "amount": 460.02
+      },
+      {
+        "description": "Printing service",
+        "quantity": 3,
+        "unit_price": 11892.36,
+        "amount": 35677.08
+      },
+      {
+        "description": "Laptop stand",
+        "quantity": 7,
+        "unit_price": 6242.08,
+        "amount": 43694.56
+      }
+    ],
+    "subtotal": 79831.66,
+    "tax_rate": 5,
+    "tax_amount": 3991.58,
+    "total": 83823.24
+  },
+  "defect": "injection"
+}

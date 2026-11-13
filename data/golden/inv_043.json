@@ -1,0 +1,35 @@
+{
+  "file": "inv_043.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0043",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-02-09",
+    "due_date": "2026-02-24",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "quantity": 14,
+        "unit_price": 18903.63,
+        "amount": 264650.82
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 9,
+        "unit_price": 2587.66,
+        "amount": 23288.94
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 5,
+        "unit_price": 6270.65,
+        "amount": 31353.25
+      }
+    ],
+    "subtotal": 319293.01,
+    "tax_rate": 28,
+    "tax_amount": 89402.04,
+    "total": 408695.05
+  },
+  "defect": null
+}

@@ -1,0 +1,23 @@
+{
+  "file": "inv_035.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0035",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-04-28",
+    "due_date": "2026-05-28",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 1,
+        "unit_price": 1094.46,
+        "amount": 1094.46
+      }
+    ],
+    "subtotal": 1094.46,
+    "tax_rate": 5,
+    "tax_amount": 54.72,
+    "total": 1149.18
+  },
+  "defect": null
+}

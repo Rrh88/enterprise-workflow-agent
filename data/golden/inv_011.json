@@ -1,0 +1,23 @@
+{
+  "file": "inv_011.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0011",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-01-14",
+    "due_date": "2026-02-28",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 7,
+        "unit_price": 15371.02,
+        "amount": 107597.14
+      }
+    ],
+    "subtotal": 107597.14,
+    "tax_rate": 18,
+    "tax_amount": 19367.49,
+    "total": 126964.63
+  },
+  "defect": null
+}

@@ -1,0 +1,41 @@
+{
+  "file": "inv_010.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0010",
+    "vendor_name": "Ganga Logistics",
+    "invoice_date": "2026-07-20",
+    "due_date": "2026-07-10",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 13,
+        "unit_price": 9883.29,
+        "amount": 128482.77
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 13,
+        "unit_price": 1603.08,
+        "amount": 20840.04
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 7,
+        "unit_price": 11043.64,
+        "amount": 77305.48
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 11,
+        "unit_price": 15038.15,
+        "amount": 165419.65
+      }
+    ],
+    "subtotal": 392047.94,
+    "tax_rate": 5,
+    "tax_amount": 19602.4,
+    "total": 411650.34
+  },
+  "defect": "bad_dates"
+}

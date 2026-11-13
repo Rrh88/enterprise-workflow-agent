@@ -1,0 +1,23 @@
+{
+  "file": "inv_012.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0012",
+    "vendor_name": "Bluewave Consulting",
+    "invoice_date": "2026-03-04",
+    "due_date": "2026-04-03",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 16,
+        "unit_price": 24827.91,
+        "amount": 397246.56
+      }
+    ],
+    "subtotal": 397246.56,
+    "tax_rate": 28,
+    "tax_amount": 111229.04,
+    "total": 509725.6
+  },
+  "defect": "wrong_total"
+}

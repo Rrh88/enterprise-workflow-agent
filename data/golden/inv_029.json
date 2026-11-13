@@ -1,0 +1,41 @@
+{
+  "file": "inv_029.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0022",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-09-17",
+    "due_date": "2026-11-01",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 18,
+        "unit_price": 745.25,
+        "amount": 13414.5
+      },
+      {
+        "description": "Printing service",
+        "quantity": 15,
+        "unit_price": 8174.06,
+        "amount": 122610.9
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 20,
+        "unit_price": 12828.43,
+        "amount": 256568.6
+      },
+      {
+        "description": "Office chair",
+        "quantity": 15,
+        "unit_price": 12728.5,
+        "amount": 190927.5
+      }
+    ],
+    "subtotal": 583521.5,
+    "tax_rate": 12,
+    "tax_amount": 70022.58,
+    "total": 653544.08
+  },
+  "defect": "duplicate"
+}

@@ -1,0 +1,41 @@
+{
+  "file": "inv_033.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0033",
+    "vendor_name": "Apex Cloud Services",
+    "invoice_date": "2026-01-22",
+    "due_date": "2026-03-08",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 1,
+        "unit_price": 7526.17,
+        "amount": 7526.17
+      },
+      {
+        "description": "Printing service",
+        "quantity": 3,
+        "unit_price": 14660.3,
+        "amount": 43980.9
+      },
+      {
+        "description": "Software licence",
+        "quantity": 5,
+        "unit_price": 16455.71,
+        "amount": 82278.55
+      },
+      {
+        "description": "Office chair",
+        "quantity": 13,
+        "unit_price": 19119.57,
+        "amount": 248554.41
+      }
+    ],
+    "subtotal": 382340.03,
+    "tax_rate": 12,
+    "tax_amount": 45880.8,
+    "total": 428220.83
+  },
+  "defect": null
+}

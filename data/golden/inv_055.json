@@ -1,0 +1,47 @@
+{
+  "file": "inv_055.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0055",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-02-25",
+    "due_date": "2026-03-27",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 16,
+        "unit_price": 15271.95,
+        "amount": 244351.2
+      },
+      {
+        "description": "Laptop stand",
+        "quantity": 16,
+        "unit_price": 10454.88,
+        "amount": 167278.08
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 20,
+        "unit_price": 3702.26,
+        "amount": 74045.2
+      },
+      {
+        "description": "Software licence",
+        "quantity": 2,
+        "unit_price": 5363.08,
+        "amount": 10726.16
+      },
+      {
+        "description": "Laptop stand",
+        "quantity": 5,
+        "unit_price": 10413.85,
+        "amount": 52069.25
+      }
+    ],
+    "subtotal": 548469.89,
+    "tax_rate": 12,
+    "tax_amount": 65816.39,
+    "total": 614286.28
+  },
+  "defect": null
+}

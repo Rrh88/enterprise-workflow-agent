@@ -1,0 +1,41 @@
+{
+  "file": "inv_021.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0021",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-01-10",
+    "due_date": "2026-01-25",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Cloud hosting (month)",
+        "quantity": 6,
+        "unit_price": 15233.44,
+        "amount": 91400.64
+      },
+      {
+        "description": "Software licence",
+        "quantity": 6,
+        "unit_price": 3581.9,
+        "amount": 21491.4
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 4,
+        "unit_price": 13934.07,
+        "amount": 55736.28
+      },
+      {
+        "description": "Office chair",
+        "quantity": 17,
+        "unit_price": 13291.62,
+        "amount": 225957.54
+      }
+    ],
+    "subtotal": 394585.86,
+    "tax_rate": 5,
+    "tax_amount": 19729.29,
+    "total": 414415.15
+  },
+  "defect": "wrong_total"
+}

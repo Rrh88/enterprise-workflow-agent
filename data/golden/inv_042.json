@@ -1,0 +1,23 @@
+{
+  "file": "inv_042.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0042",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-07-23",
+    "due_date": "2026-08-07",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 7,
+        "unit_price": 17839.94,
+        "amount": 124879.58
+      }
+    ],
+    "subtotal": 124879.58,
+    "tax_rate": 18,
+    "tax_amount": 22478.32,
+    "total": 147357.9
+  },
+  "defect": null
+}

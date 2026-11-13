@@ -1,0 +1,41 @@
+{
+  "file": "inv_009.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0009",
+    "vendor_name": "Bluewave Consulting",
+    "invoice_date": "2026-01-07",
+    "due_date": "2026-02-21",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 19,
+        "unit_price": 4599.45,
+        "amount": 87389.55
+      },
+      {
+        "description": "Printing service",
+        "quantity": 1,
+        "unit_price": 3684.63,
+        "amount": 3684.63
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 12,
+        "unit_price": 15264.82,
+        "amount": 183177.84
+      },
+      {
+        "description": "Printing service",
+        "quantity": 5,
+        "unit_price": 17277.82,
+        "amount": 86389.1
+      }
+    ],
+    "subtotal": 360641.12,
+    "tax_rate": 5,
+    "tax_amount": 18032.06,
+    "total": 378673.18
+  },
+  "defect": null
+}

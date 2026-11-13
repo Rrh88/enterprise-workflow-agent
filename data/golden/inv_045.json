@@ -1,0 +1,47 @@
+{
+  "file": "inv_045.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0036",
+    "vendor_name": "Delta Print Works",
+    "invoice_date": "2026-01-10",
+    "due_date": "2026-01-25",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "quantity": 8,
+        "unit_price": 12257.89,
+        "amount": 98063.12
+      },
+      {
+        "description": "Printing service",
+        "quantity": 15,
+        "unit_price": 19952.55,
+        "amount": 299288.25
+      },
+      {
+        "description": "Printing service",
+        "quantity": 18,
+        "unit_price": 2343.95,
+        "amount": 42191.1
+      },
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 18655.91,
+        "amount": 55967.73
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 9,
+        "unit_price": 20240.01,
+        "amount": 182160.09
+      }
+    ],
+    "subtotal": 677670.29,
+    "tax_rate": 12,
+    "tax_amount": 81320.43,
+    "total": 758990.72
+  },
+  "defect": "duplicate"
+}

@@ -1,0 +1,41 @@
+{
+  "file": "inv_047.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0047",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-08-19",
+    "due_date": "2026-09-18",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "quantity": 5,
+        "unit_price": 13717.24,
+        "amount": 68586.2
+      },
+      {
+        "description": "Printing service",
+        "quantity": 3,
+        "unit_price": 4408.64,
+        "amount": 13225.92
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 3,
+        "unit_price": 8016.23,
+        "amount": 24048.69
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 9,
+        "unit_price": 20243.49,
+        "amount": 182191.41
+      }
+    ],
+    "subtotal": 288052.22,
+    "tax_rate": 5,
+    "tax_amount": 14402.61,
+    "total": 302454.83
+  },
+  "defect": null
+}

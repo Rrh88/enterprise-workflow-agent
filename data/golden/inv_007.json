@@ -1,0 +1,35 @@
+{
+  "file": "inv_007.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0007",
+    "vendor_name": "Delta Print Works",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-16",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Consulting (hours)",
+        "quantity": 13,
+        "unit_price": 22181.66,
+        "amount": 288361.58
+      },
+      {
+        "description": "Consulting (hours)",
+        "quantity": 1,
+        "unit_price": 23519.18,
+        "amount": 23519.18
+      },
+      {
+        "description": "Office chair",
+        "quantity": 6,
+        "unit_price": 15292.44,
+        "amount": 91754.64
+      }
+    ],
+    "subtotal": 403635.4,
+    "tax_rate": 5,
+    "tax_amount": 20381.77,
+    "total": 423817.17
+  },
+  "defect": "wrong_tax"
+}

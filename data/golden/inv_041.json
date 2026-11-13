@@ -1,0 +1,41 @@
+{
+  "file": "inv_041.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0041",
+    "vendor_name": "Shree Tech Supplies",
+    "invoice_date": "2026-09-12",
+    "due_date": "2026-10-12",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "quantity": 13,
+        "unit_price": 669.62,
+        "amount": 8705.06
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 16,
+        "unit_price": 17055.62,
+        "amount": 272889.92
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 10,
+        "unit_price": 18193.21,
+        "amount": 181932.1
+      },
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 12,
+        "unit_price": 9433.85,
+        "amount": 113206.2
+      }
+    ],
+    "subtotal": 576733.28,
+    "tax_rate": 18,
+    "tax_amount": 103811.99,
+    "total": 680545.27
+  },
+  "defect": null
+}

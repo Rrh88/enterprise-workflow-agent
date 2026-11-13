@@ -1,0 +1,41 @@
+{
+  "file": "inv_016.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0016",
+    "vendor_name": "Metro Hardware Co",
+    "invoice_date": "2026-01-01",
+    "due_date": "2026-02-15",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 12,
+        "unit_price": 20001.11,
+        "amount": 240013.32
+      },
+      {
+        "description": "Courier charges",
+        "quantity": 4,
+        "unit_price": 22748.94,
+        "amount": 90995.76
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 16,
+        "unit_price": 22230.82,
+        "amount": 355693.12
+      },
+      {
+        "description": "Network cable (50m)",
+        "quantity": 11,
+        "unit_price": 2214.41,
+        "amount": 24358.51
+      }
+    ],
+    "subtotal": 711060.71,
+    "tax_rate": 28,
+    "tax_amount": 199097.0,
+    "total": 910157.71
+  },
+  "defect": null
+}

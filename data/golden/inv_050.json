@@ -1,0 +1,29 @@
+{
+  "file": "inv_050.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0050",
+    "vendor_name": "Ganga Logistics",
+    "invoice_date": "2026-04-25",
+    "due_date": "2026-05-10",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "A4 paper (ream)",
+        "quantity": 5,
+        "unit_price": 13083.02,
+        "amount": 65415.1
+      },
+      {
+        "description": "Laptop stand",
+        "quantity": 15,
+        "unit_price": 2170.83,
+        "amount": 32562.45
+      }
+    ],
+    "subtotal": 97977.55,
+    "tax_rate": 5,
+    "tax_amount": 4898.88,
+    "total": 102876.43
+  },
+  "defect": null
+}

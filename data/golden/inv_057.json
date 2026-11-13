@@ -1,0 +1,23 @@
+{
+  "file": "inv_057.pdf",
+  "invoice": {
+    "invoice_number": "INV-2026-0057",
+    "vendor_name": "Himalaya Stationers",
+    "invoice_date": "2026-08-28",
+    "due_date": "2026-09-27",
+    "currency": "INR",
+    "line_items": [
+      {
+        "description": "Network cable (50m)",
+        "quantity": 10,
+        "unit_price": 16627.53,
+        "amount": 166275.3
+      }
+    ],
+    "subtotal": 166275.3,
+    "tax_rate": 18,
+    "tax_amount": 29929.55,
+    "total": 196304.85
+  },
+  "defect": "wrong_total"
+}
