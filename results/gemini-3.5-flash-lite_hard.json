@@ -1,0 +1,2168 @@
+{
+  "inv_001": {
+    "invoice": {
+      "invoice_number": "INV-2026-0001",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-06-30",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 13.0,
+          "unit_price": 16290.82,
+          "amount": 211780.66
+        },
+        {
+          "description": "Software licence",
+          "quantity": 18.0,
+          "unit_price": 2398.54,
+          "amount": 43173.72
+        }
+      ],
+      "subtotal": 254954.38,
+      "tax_rate": 5.0,
+      "tax_amount": 12747.72,
+      "total": 267702.1
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 266
+    }
+  },
+  "inv_002": {
+    "invoice": {
+      "invoice_number": "INV-2026-0002",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-02-14",
+      "due_date": "2026-03-01",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 14.0,
+          "unit_price": 1792.89,
+          "amount": 25100.46
+        },
+        {
+          "description": "Software licence",
+          "quantity": 18.0,
+          "unit_price": 10641.75,
+          "amount": 191551.5
+        },
+        {
+          "description": "Software licence",
+          "quantity": 4.0,
+          "unit_price": 23688.87,
+          "amount": 94755.48
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 2.0,
+          "unit_price": 14448.72,
+          "amount": 28897.44
+        }
+      ],
+      "subtotal": 340304.88,
+      "tax_rate": 5.0,
+      "tax_amount": 17015.24,
+      "total": 357320.12
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 375
+    }
+  },
+  "inv_003": {
+    "invoice": {
+      "invoice_number": "INV-2026-0003",
+      "vendor_name": "Noida Office Mart",
+      "invoice_date": "2026-03-10",
+      "due_date": "2026-04-24",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 14.0,
+          "unit_price": 3649.16,
+          "amount": 51088.24
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 19.0,
+          "unit_price": 7746.62,
+          "amount": 147185.78
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 4.0,
+          "unit_price": 14560.92,
+          "amount": 58243.68
+        }
+      ],
+      "subtotal": 256517.7,
+      "tax_rate": 18.0,
+      "tax_amount": 46173.19,
+      "total": 302690.89
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 321
+    }
+  },
+  "inv_004": {
+    "invoice": {
+      "invoice_number": "INV-2026-0004",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-02-02",
+      "due_date": "2026-03-19",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 2.0,
+          "unit_price": 15494.29,
+          "amount": 30988.58
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 18.0,
+          "unit_price": 10718.43,
+          "amount": 192931.74
+        },
+        {
+          "description": "Office chair",
+          "quantity": 15.0,
+          "unit_price": 14659.77,
+          "amount": 219896.55
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 12.0,
+          "unit_price": 7529.19,
+          "amount": 90350.28
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 8.0,
+          "unit_price": 2092.28,
+          "amount": 16738.24
+        }
+      ],
+      "subtotal": 550905.39,
+      "tax_rate": 28.0,
+      "tax_amount": 154253.51,
+      "total": 705158.9
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 433
+    }
+  },
+  "inv_005": {
+    "invoice": {
+      "invoice_number": "INV-2026-0005",
+      "vendor_name": "Noida Office Mart",
+      "invoice_date": "2026-08-18",
+      "due_date": "2026-10-02",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 20.0,
+          "unit_price": 24505.36,
+          "amount": 490107.2
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 17.0,
+          "unit_price": 10482.16,
+          "amount": 178196.72
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 5.0,
+          "unit_price": 23335.09,
+          "amount": 116675.45
+        }
+      ],
+      "subtotal": 784979.37,
+      "tax_rate": 5.0,
+      "tax_amount": 39248.97,
+      "total": 824228.34
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 328
+    }
+  },
+  "inv_006": {
+    "invoice": {
+      "invoice_number": "INV-2026-0006",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-06-10",
+      "due_date": "2026-07-25",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Software licence",
+          "quantity": 12.0,
+          "unit_price": 14879.53,
+          "amount": 178554.36
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 15.0,
+          "unit_price": 1765.64,
+          "amount": 26484.6
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 9.0,
+          "unit_price": 11878.75,
+          "amount": 106908.75
+        }
+      ],
+      "subtotal": 311947.71,
+      "tax_rate": 5.0,
+      "tax_amount": 15597.39,
+      "total": 327545.1
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 322
+    }
+  },
+  "inv_007": {
+    "invoice": {
+      "invoice_number": "INV-2026-0007",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-08-17",
+      "due_date": "2026-09-16",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 13.0,
+          "unit_price": 22181.66,
+          "amount": 288361.58
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 1.0,
+          "unit_price": 23519.18,
+          "amount": 23519.18
+        },
+        {
+          "description": "Office chair",
+          "quantity": 6.0,
+          "unit_price": 15292.44,
+          "amount": 91754.64
+        }
+      ],
+      "subtotal": 403635.4,
+      "tax_rate": 5.0,
+      "tax_amount": 20381.77,
+      "total": 423817.17
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 319
+    }
+  },
+  "inv_008": {
+    "invoice": {
+      "invoice_number": "INV-2026-0008",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-07-20",
+      "due_date": "2026-08-04",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Network cable (50m)",
+          "quantity": 3.0,
+          "unit_price": 4200.84,
+          "amount": 12602.52
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 18.0,
+          "unit_price": 6982.09,
+          "amount": 125677.62
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 14.0,
+          "unit_price": 21606.41,
+          "amount": 302489.74
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 14.0,
+          "unit_price": 24662.35,
+          "amount": 345272.9
+        }
+      ],
+      "subtotal": 786042.78,
+      "tax_rate": 12.0,
+      "tax_amount": 94375.13,
+      "total": 880367.91
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 383
+    }
+  },
+  "inv_009": {
+    "invoice": {
+      "invoice_number": "INV-2026-0009",
+      "vendor_name": "Bluewave Consulting",
+      "invoice_date": "2026-01-07",
+      "due_date": "2026-02-21",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Toner cartridge",
+          "quantity": 19.0,
+          "unit_price": 4599.45,
+          "amount": 87389.55
+        },
+        {
+          "description": "Printing service",
+          "quantity": 1.0,
+          "unit_price": 3684.63,
+          "amount": 3684.63
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 12.0,
+          "unit_price": 15264.82,
+          "amount": 183177.84
+        },
+        {
+          "description": "Printing service",
+          "quantity": 5.0,
+          "unit_price": 17277.82,
+          "amount": 86389.1
+        }
+      ],
+      "subtotal": 360641.12,
+      "tax_rate": 5.0,
+      "tax_amount": 18032.06,
+      "total": 378673.18
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 373
+    }
+  },
+  "inv_010": {
+    "invoice": {
+      "invoice_number": "INV-2026-0010",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-07-20",
+      "due_date": "2026-07-10",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 13.0,
+          "unit_price": 9883.29,
+          "amount": 128482.77
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 13.0,
+          "unit_price": 1603.08,
+          "amount": 20840.04
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 7.0,
+          "unit_price": 11043.64,
+          "amount": 77305.48
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 11.0,
+          "unit_price": 15038.15,
+          "amount": 165419.65
+        }
+      ],
+      "subtotal": 392047.94,
+      "tax_rate": 5.0,
+      "tax_amount": 19602.4,
+      "total": 411650.34
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 379
+    }
+  },
+  "inv_011": {
+    "invoice": {
+      "invoice_number": "INV-2026-0011",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-01-14",
+      "due_date": "2026-02-28",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 7.0,
+          "unit_price": 15371.02,
+          "amount": 107597.14
+        }
+      ],
+      "subtotal": 107597.14,
+      "tax_rate": 18.0,
+      "tax_amount": 19367.49,
+      "total": 126964.63
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 211
+    }
+  },
+  "inv_012": {
+    "invoice": {
+      "invoice_number": "INV-2026-0012",
+      "vendor_name": "Bluewave Consulting",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-04-03",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 16.0,
+          "unit_price": 24827.91,
+          "amount": 397246.56
+        }
+      ],
+      "subtotal": 397246.56,
+      "tax_rate": 28.0,
+      "tax_amount": 111229.04,
+      "total": 509725.6
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 210
+    }
+  },
+  "inv_013": {
+    "invoice": {
+      "invoice_number": "INV-2026-0013",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-06-25",
+      "due_date": "2026-08-09",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 16.0,
+          "unit_price": 20729.94,
+          "amount": 331679.04
+        },
+        {
+          "description": "Printing service",
+          "quantity": 17.0,
+          "unit_price": 626.24,
+          "amount": 10646.08
+        },
+        {
+          "description": "Printing service",
+          "quantity": 12.0,
+          "unit_price": 3707.73,
+          "amount": 44492.76
+        }
+      ],
+      "subtotal": 386817.88,
+      "tax_rate": 5.0,
+      "tax_amount": 19340.89,
+      "total": 406158.77
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 316
+    }
+  },
+  "inv_014": {
+    "invoice": {
+      "invoice_number": "INV-2026-0014",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-05-14",
+      "due_date": "2026-05-29",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 12.0,
+          "unit_price": 22711.05,
+          "amount": 272532.6
+        },
+        {
+          "description": "Printing service",
+          "quantity": 8.0,
+          "unit_price": 13338.18,
+          "amount": 106705.44
+        },
+        {
+          "description": "Software licence",
+          "quantity": 11.0,
+          "unit_price": 15929.23,
+          "amount": 175221.53
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 7.0,
+          "unit_price": 20161.66,
+          "amount": 141131.62
+        },
+        {
+          "description": "Office chair",
+          "quantity": 8.0,
+          "unit_price": 5037.95,
+          "amount": 40303.6
+        }
+      ],
+      "subtotal": 735894.79,
+      "tax_rate": 18.0,
+      "tax_amount": 132461.06,
+      "total": 868355.85
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 435
+    }
+  },
+  "inv_015": {
+    "invoice": {
+      "invoice_number": "INV-2026-0010",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-07-20",
+      "due_date": "2026-07-10",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 13.0,
+          "unit_price": 9883.29,
+          "amount": 128482.77
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 13.0,
+          "unit_price": 1603.08,
+          "amount": 20840.04
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 7.0,
+          "unit_price": 11043.64,
+          "amount": 77305.48
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 11.0,
+          "unit_price": 15038.15,
+          "amount": 165419.65
+        }
+      ],
+      "subtotal": 392047.94,
+      "tax_rate": 5.0,
+      "tax_amount": 19602.4,
+      "total": 411650.34
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 381
+    }
+  },
+  "inv_016": {
+    "invoice": {
+      "invoice_number": "INV-2026-0016",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-01-01",
+      "due_date": "2026-02-15",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 12.0,
+          "unit_price": 20001.11,
+          "amount": 240013.32
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 4.0,
+          "unit_price": 22748.94,
+          "amount": 90995.76
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 16.0,
+          "unit_price": 22230.82,
+          "amount": 355693.12
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 11.0,
+          "unit_price": 2214.41,
+          "amount": 24358.51
+        }
+      ],
+      "subtotal": 711060.71,
+      "tax_rate": 28.0,
+      "tax_amount": 199097.0,
+      "total": 910157.71
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 384
+    }
+  },
+  "inv_017": {
+    "invoice": {
+      "invoice_number": "INV-2026-0017",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-03-23",
+      "due_date": "2026-04-07",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Software licence",
+          "quantity": 5.0,
+          "unit_price": 737.34,
+          "amount": 3686.7
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 15.0,
+          "unit_price": 20172.22,
+          "amount": 302583.3
+        }
+      ],
+      "subtotal": 306270.0,
+      "tax_rate": 28.0,
+      "tax_amount": 85755.6,
+      "total": 392025.6
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 263
+    }
+  },
+  "inv_018": {
+    "invoice": {
+      "invoice_number": "INV-2026-0018",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-03-09",
+      "due_date": "2026-03-24",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 1.0,
+          "unit_price": 19993.96,
+          "amount": 19993.96
+        }
+      ],
+      "subtotal": 19993.96,
+      "tax_rate": 12.0,
+      "tax_amount": 2399.28,
+      "total": 22393.24
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 208
+    }
+  },
+  "inv_019": {
+    "invoice": {
+      "invoice_number": "INV-2026-0019",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-04-19",
+      "due_date": "2026-05-19",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 9.0,
+          "unit_price": 5358.86,
+          "amount": 48229.74
+        }
+      ],
+      "subtotal": 48229.74,
+      "tax_rate": 12.0,
+      "tax_amount": 5787.57,
+      "total": 54017.31
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 206
+    }
+  },
+  "inv_020": {
+    "invoice": {
+      "invoice_number": "INV-2026-0020",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-03-09",
+      "due_date": "2026-04-23",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Software licence",
+          "quantity": 12.0,
+          "unit_price": 22447.71,
+          "amount": 269372.52
+        }
+      ],
+      "subtotal": 269372.52,
+      "tax_rate": 28.0,
+      "tax_amount": 75424.31,
+      "total": 344796.83
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 208
+    }
+  },
+  "inv_021": {
+    "invoice": {
+      "invoice_number": "INV-2026-0021",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-01-10",
+      "due_date": "2026-01-25",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 6.0,
+          "unit_price": 15233.44,
+          "amount": 91400.64
+        },
+        {
+          "description": "Software licence",
+          "quantity": 6.0,
+          "unit_price": 3581.9,
+          "amount": 21491.4
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 4.0,
+          "unit_price": 13934.07,
+          "amount": 55736.28
+        },
+        {
+          "description": "Office chair",
+          "quantity": 17.0,
+          "unit_price": 13291.62,
+          "amount": 225957.54
+        }
+      ],
+      "subtotal": 394585.86,
+      "tax_rate": 5.0,
+      "tax_amount": 19729.29,
+      "total": 414415.15
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 373
+    }
+  },
+  "inv_022": {
+    "invoice": {
+      "invoice_number": "INV-2026-0022",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-11-01",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 18.0,
+          "unit_price": 745.25,
+          "amount": 13414.5
+        },
+        {
+          "description": "Printing service",
+          "quantity": 15.0,
+          "unit_price": 8174.06,
+          "amount": 122610.9
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 20.0,
+          "unit_price": 12828.43,
+          "amount": 256568.6
+        },
+        {
+          "description": "Office chair",
+          "quantity": 15.0,
+          "unit_price": 12728.5,
+          "amount": 190927.5
+        }
+      ],
+      "subtotal": 583521.5,
+      "tax_rate": 12.0,
+      "tax_amount": 70022.58,
+      "total": 653544.08
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 376
+    }
+  },
+  "inv_023": {
+    "invoice": {
+      "invoice_number": "INV-2026-0023",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-04-14",
+      "due_date": "2026-05-14",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Network cable (50m)",
+          "quantity": 5.0,
+          "unit_price": 10445.09,
+          "amount": 52225.45
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 15.0,
+          "unit_price": 7933.7,
+          "amount": 119005.5
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 14.0,
+          "unit_price": 1874.36,
+          "amount": 26241.04
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 4.0,
+          "unit_price": 22430.81,
+          "amount": 89723.24
+        }
+      ],
+      "subtotal": 287195.23,
+      "tax_rate": 18.0,
+      "tax_amount": 51695.14,
+      "total": 338890.37
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 386
+    }
+  },
+  "inv_024": {
+    "invoice": {
+      "invoice_number": "INV-2026-0024",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-08-28",
+      "due_date": "2026-10-12",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 4.0,
+          "unit_price": 9986.51,
+          "amount": 39946.04
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 6.0,
+          "unit_price": 24747.29,
+          "amount": 148483.74
+        }
+      ],
+      "subtotal": 188429.78,
+      "tax_rate": 12.0,
+      "tax_amount": 22611.57,
+      "total": 211041.35
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 260
+    }
+  },
+  "inv_025": {
+    "invoice": {
+      "invoice_number": "INV-2026-0025",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-08-04",
+      "due_date": "2026-09-03",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 12.0,
+          "unit_price": 7997.21,
+          "amount": 95966.52
+        },
+        {
+          "description": "Office chair",
+          "quantity": 1.0,
+          "unit_price": 8482.59,
+          "amount": 8482.59
+        }
+      ],
+      "subtotal": 104449.11,
+      "tax_rate": 28.0,
+      "tax_amount": 29245.75,
+      "total": 133694.86
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 261
+    }
+  },
+  "inv_026": {
+    "invoice": {
+      "invoice_number": "INV-2026-0026",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-06-01",
+      "due_date": "2026-06-16",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 3.0,
+          "unit_price": 2865.61,
+          "amount": 8596.83
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 4.0,
+          "unit_price": 2147.33,
+          "amount": 8589.32
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 2.0,
+          "unit_price": 22652.17,
+          "amount": 45304.34
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 9.0,
+          "unit_price": 18906.62,
+          "amount": 170159.58
+        },
+        {
+          "description": "Printing service",
+          "quantity": 9.0,
+          "unit_price": 10178.4,
+          "amount": 91605.6
+        }
+      ],
+      "subtotal": 324255.67,
+      "tax_rate": 28.0,
+      "tax_amount": 90991.59,
+      "total": 415047.26
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 427
+    }
+  },
+  "inv_027": {
+    "invoice": {
+      "invoice_number": "INV-2026-0027",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-03-09",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Toner cartridge",
+          "quantity": 1.0,
+          "unit_price": 15879.27,
+          "amount": 15879.27
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 3.0,
+          "unit_price": 15224.03,
+          "amount": 45672.09
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 3.0,
+          "unit_price": 6648.05,
+          "amount": 19944.15
+        }
+      ],
+      "subtotal": 81495.51,
+      "tax_rate": 28.0,
+      "tax_amount": 22818.74,
+      "total": 104314.25
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 319
+    }
+  },
+  "inv_028": {
+    "invoice": {
+      "invoice_number": "INV-2026-0028",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-08-02",
+      "due_date": "2026-09-16",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 20.0,
+          "unit_price": 3274.16,
+          "amount": 65483.2
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 8.0,
+          "unit_price": 23456.24,
+          "amount": 187649.92
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 9.0,
+          "unit_price": 1306.97,
+          "amount": 11762.73
+        }
+      ],
+      "subtotal": 264895.85,
+      "tax_rate": 18.0,
+      "tax_amount": 47681.25,
+      "total": 312577.1
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 316
+    }
+  },
+  "inv_029": {
+    "invoice": {
+      "invoice_number": "INV-2026-0022",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-11-01",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 18.0,
+          "unit_price": 745.25,
+          "amount": 13414.5
+        },
+        {
+          "description": "Printing service",
+          "quantity": 15.0,
+          "unit_price": 8174.06,
+          "amount": 122610.9
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 20.0,
+          "unit_price": 12828.43,
+          "amount": 256568.6
+        },
+        {
+          "description": "Office chair",
+          "quantity": 15.0,
+          "unit_price": 12728.5,
+          "amount": 190927.5
+        }
+      ],
+      "subtotal": 583521.5,
+      "tax_rate": 12.0,
+      "tax_amount": 70022.58,
+      "total": 653544.08
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 376
+    }
+  },
+  "inv_030": {
+    "invoice": {
+      "invoice_number": "INV-2026-0028",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-08-02",
+      "due_date": "2026-09-16",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 20.0,
+          "unit_price": 3274.16,
+          "amount": 65483.2
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 8.0,
+          "unit_price": 23456.24,
+          "amount": 187649.92
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 9.0,
+          "unit_price": 1306.97,
+          "amount": 11762.73
+        }
+      ],
+      "subtotal": 264895.85,
+      "tax_rate": 18.0,
+      "tax_amount": 47681.25,
+      "total": 312577.1
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 318
+    }
+  },
+  "inv_031": {
+    "invoice": {
+      "invoice_number": "INV-2026-0031",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-11-01",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Toner cartridge",
+          "quantity": 20.0,
+          "unit_price": 6093.21,
+          "amount": 121864.2
+        },
+        {
+          "description": "Cloud hosting (month)",
+          "quantity": 2.0,
+          "unit_price": 11513.35,
+          "amount": 23026.7
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 9.0,
+          "unit_price": 11173.32,
+          "amount": 100559.88
+        }
+      ],
+      "subtotal": 245450.78,
+      "tax_rate": 18.0,
+      "tax_amount": 44181.14,
+      "total": 290131.92
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 330
+    }
+  },
+  "inv_032": {
+    "invoice": {
+      "invoice_number": "INV-2026-0032",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-04-22",
+      "due_date": "2026-05-07",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Network cable (50m)",
+          "quantity": 6.0,
+          "unit_price": 76.67,
+          "amount": 460.02
+        },
+        {
+          "description": "Printing service",
+          "quantity": 3.0,
+          "unit_price": 11892.36,
+          "amount": 35677.08
+        },
+        {
+          "description": "Laptop stand",
+          "quantity": 7.0,
+          "unit_price": 6242.08,
+          "amount": 43694.56
+        }
+      ],
+      "subtotal": 79831.66,
+      "tax_rate": 5.0,
+      "tax_amount": 3991.58,
+      "total": 83823.24
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 308
+    }
+  },
+  "inv_033": {
+    "invoice": {
+      "invoice_number": "INV-2026-0033",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-01-22",
+      "due_date": "2026-03-08",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 1.0,
+          "unit_price": 7526.17,
+          "amount": 7526.17
+        },
+        {
+          "description": "Printing service",
+          "quantity": 3.0,
+          "unit_price": 14660.3,
+          "amount": 43980.9
+        },
+        {
+          "description": "Software licence",
+          "quantity": 5.0,
+          "unit_price": 16455.71,
+          "amount": 82278.55
+        },
+        {
+          "description": "Office chair",
+          "quantity": 13.0,
+          "unit_price": 19119.57,
+          "amount": 248554.41
+        }
+      ],
+      "subtotal": 382340.03,
+      "tax_rate": 12.0,
+      "tax_amount": 45880.8,
+      "total": 428220.83
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 368
+    }
+  },
+  "inv_034": {
+    "invoice": {
+      "invoice_number": "INV-2026-0034",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-03-16",
+      "due_date": "2026-04-30",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 17.0,
+          "unit_price": 15701.94,
+          "amount": 266932.98
+        }
+      ],
+      "subtotal": 266932.98,
+      "tax_rate": 12.0,
+      "tax_amount": 32031.96,
+      "total": 298964.94
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 209
+    }
+  },
+  "inv_035": {
+    "invoice": {
+      "invoice_number": "INV-2026-0035",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-04-28",
+      "due_date": "2026-05-28",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 1.0,
+          "unit_price": 1094.46,
+          "amount": 1094.46
+        }
+      ],
+      "subtotal": 1094.46,
+      "tax_rate": 5.0,
+      "tax_amount": 54.72,
+      "total": 1149.18
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 202
+    }
+  },
+  "inv_036": {
+    "invoice": {
+      "invoice_number": "INV-2026-0036",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-01-10",
+      "due_date": "2026-01-25",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 8.0,
+          "unit_price": 12257.89,
+          "amount": 98063.12
+        },
+        {
+          "description": "Printing service",
+          "quantity": 15.0,
+          "unit_price": 19952.55,
+          "amount": 299288.25
+        },
+        {
+          "description": "Printing service",
+          "quantity": 18.0,
+          "unit_price": 2343.95,
+          "amount": 42191.1
+        },
+        {
+          "description": "Office chair",
+          "quantity": 3.0,
+          "unit_price": 18655.91,
+          "amount": 55967.73
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 9.0,
+          "unit_price": 20240.01,
+          "amount": 182160.09
+        }
+      ],
+      "subtotal": 677670.29,
+      "tax_rate": 12.0,
+      "tax_amount": 81320.43,
+      "total": 758990.72
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 427
+    }
+  },
+  "inv_037": {
+    "invoice": {
+      "invoice_number": "INV-2026-0037",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-08-24",
+      "due_date": "2026-08-14",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Toner cartridge",
+          "quantity": 13.0,
+          "unit_price": 1964.66,
+          "amount": 25540.58
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 2.0,
+          "unit_price": 15443.5,
+          "amount": 30887.0
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 3.0,
+          "unit_price": 15012.65,
+          "amount": 45037.95
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 9.0,
+          "unit_price": 16305.78,
+          "amount": 146752.02
+        }
+      ],
+      "subtotal": 248217.55,
+      "tax_rate": 12.0,
+      "tax_amount": 29786.11,
+      "total": 278003.66
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 376
+    }
+  },
+  "inv_038": {
+    "invoice": {
+      "invoice_number": "INV-2026-0038",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-02-20",
+      "due_date": "2026-03-22",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 16.0,
+          "unit_price": 7306.87,
+          "amount": 116909.92
+        },
+        {
+          "description": "Office chair",
+          "quantity": 10.0,
+          "unit_price": 11643.34,
+          "amount": 116433.4
+        }
+      ],
+      "subtotal": 233343.32,
+      "tax_rate": 5.0,
+      "tax_amount": 11667.17,
+      "total": 245010.49
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 262
+    }
+  },
+  "inv_039": {
+    "invoice": {
+      "invoice_number": "INV-2026-0039",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-08-31",
+      "due_date": "2026-09-30",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 10.0,
+          "unit_price": 11501.32,
+          "amount": 115013.2
+        }
+      ],
+      "subtotal": 115013.2,
+      "tax_rate": 28.0,
+      "tax_amount": 32253.7,
+      "total": 147216.9
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 208
+    }
+  },
+  "inv_040": {
+    "invoice": {
+      "invoice_number": "INV-2026-0040",
+      "vendor_name": "Noida Office Mart",
+      "invoice_date": "2026-02-16",
+      "due_date": "2026-04-02",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 17.0,
+          "unit_price": 6582.13,
+          "amount": 111896.21
+        },
+        {
+          "description": "Printing service",
+          "quantity": 5.0,
+          "unit_price": 15103.98,
+          "amount": 75519.9
+        }
+      ],
+      "subtotal": 187416.11,
+      "tax_rate": 18.0,
+      "tax_amount": 33734.9,
+      "total": 221151.01
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 270
+    }
+  },
+  "inv_041": {
+    "invoice": {
+      "invoice_number": "INV-2026-0041",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-09-12",
+      "due_date": "2026-10-12",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 13.0,
+          "unit_price": 669.62,
+          "amount": 8705.06
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 16.0,
+          "unit_price": 17055.62,
+          "amount": 272889.92
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 10.0,
+          "unit_price": 18193.21,
+          "amount": 181932.1
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 12.0,
+          "unit_price": 9433.85,
+          "amount": 113206.2
+        }
+      ],
+      "subtotal": 576733.28,
+      "tax_rate": 18.0,
+      "tax_amount": 103811.99,
+      "total": 680545.27
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 384
+    }
+  },
+  "inv_042": {
+    "invoice": {
+      "invoice_number": "INV-2026-0042",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-07-23",
+      "due_date": "2026-08-07",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Toner cartridge",
+          "quantity": 7.0,
+          "unit_price": 17839.94,
+          "amount": 124879.58
+        }
+      ],
+      "subtotal": 124879.58,
+      "tax_rate": 18.0,
+      "tax_amount": 22478.32,
+      "total": 147357.9
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 210
+    }
+  },
+  "inv_043": {
+    "invoice": {
+      "invoice_number": "INV-2026-0043",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-02-09",
+      "due_date": "2026-02-24",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 14.0,
+          "unit_price": 18903.63,
+          "amount": 264650.82
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 9.0,
+          "unit_price": 2587.66,
+          "amount": 23288.94
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 5.0,
+          "unit_price": 6270.65,
+          "amount": 31353.25
+        }
+      ],
+      "subtotal": 319293.01,
+      "tax_rate": 28.0,
+      "tax_amount": 89402.04,
+      "total": 408695.05
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 321
+    }
+  },
+  "inv_044": {
+    "invoice": {
+      "invoice_number": "INV-2026-0044",
+      "vendor_name": "Noida Office Mart",
+      "invoice_date": "2026-08-08",
+      "due_date": "2026-08-23",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 13.0,
+          "unit_price": 22839.93,
+          "amount": 296919.09
+        }
+      ],
+      "subtotal": 296919.09,
+      "tax_rate": 12.0,
+      "tax_amount": 35630.29,
+      "total": 332549.38
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 209
+    }
+  },
+  "inv_045": {
+    "invoice": {
+      "invoice_number": "INV-2026-0036",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-01-10",
+      "due_date": "2026-01-25",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 8.0,
+          "unit_price": 12257.89,
+          "amount": 98063.12
+        },
+        {
+          "description": "Printing service",
+          "quantity": 15.0,
+          "unit_price": 19952.55,
+          "amount": 299288.25
+        },
+        {
+          "description": "Printing service",
+          "quantity": 18.0,
+          "unit_price": 2343.95,
+          "amount": 42191.1
+        },
+        {
+          "description": "Office chair",
+          "quantity": 3.0,
+          "unit_price": 18655.91,
+          "amount": 55967.73
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 9.0,
+          "unit_price": 20240.01,
+          "amount": 182160.09
+        }
+      ],
+      "subtotal": 677670.29,
+      "tax_rate": 12.0,
+      "tax_amount": 81320.43,
+      "total": 758990.72
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 427
+    }
+  },
+  "inv_046": {
+    "invoice": {
+      "invoice_number": "INV-2026-0046",
+      "vendor_name": "Bluewave Consulting",
+      "invoice_date": "2026-07-21",
+      "due_date": "2026-07-11",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 6.0,
+          "unit_price": 16097.97,
+          "amount": 96587.82
+        }
+      ],
+      "subtotal": 96587.82,
+      "tax_rate": 12.0,
+      "tax_amount": 11590.54,
+      "total": 108178.36
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 209
+    }
+  },
+  "inv_047": {
+    "invoice": {
+      "invoice_number": "INV-2026-0047",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-08-19",
+      "due_date": "2026-09-18",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 5.0,
+          "unit_price": 13717.24,
+          "amount": 68586.2
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 3.0,
+          "unit_price": 4408.64,
+          "amount": 13225.92
+        },
+        {
+          "description": "Printing service",
+          "quantity": 3.0,
+          "unit_price": 8016.23,
+          "amount": 24048.69
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 9.0,
+          "unit_price": 20243.49,
+          "amount": 182191.41
+        }
+      ],
+      "subtotal": 288052.22,
+      "tax_rate": 5.0,
+      "tax_amount": 14402.61,
+      "total": 302454.83
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 370
+    }
+  },
+  "inv_048": {
+    "invoice": {
+      "invoice_number": "INV-2026-0048",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-09-26",
+      "due_date": "2026-10-11",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 13.0,
+          "unit_price": 6792.48,
+          "amount": 88302.24
+        },
+        {
+          "description": "Consulting (hours)",
+          "quantity": 16.0,
+          "unit_price": 6974.03,
+          "amount": 111584.48
+        }
+      ],
+      "subtotal": 199886.72,
+      "tax_rate": 12.0,
+      "tax_amount": 24186.41,
+      "total": 223873.13
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 265
+    }
+  },
+  "inv_049": {
+    "invoice": {
+      "invoice_number": "INV-2026-0049",
+      "vendor_name": "Bluewave Consulting",
+      "invoice_date": "2026-07-24",
+      "due_date": "2026-08-08",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Laptop stand",
+          "quantity": 14.0,
+          "unit_price": 23850.89,
+          "amount": 333912.46
+        },
+        {
+          "description": "Office chair",
+          "quantity": 5.0,
+          "unit_price": 854.48,
+          "amount": 4272.4
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 19.0,
+          "unit_price": 12271.12,
+          "amount": 233151.28
+        },
+        {
+          "description": "Printing service",
+          "quantity": 13.0,
+          "unit_price": 23259.45,
+          "amount": 302372.85
+        }
+      ],
+      "subtotal": 873708.99,
+      "tax_rate": 28.0,
+      "tax_amount": 244638.52,
+      "total": 1118347.51
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 379
+    }
+  },
+  "inv_050": {
+    "invoice": {
+      "invoice_number": "INV-2026-0050",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-04-25",
+      "due_date": "2026-05-10",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 5.0,
+          "unit_price": 13083.02,
+          "amount": 65415.1
+        },
+        {
+          "description": "Laptop stand",
+          "quantity": 15.0,
+          "unit_price": 2170.83,
+          "amount": 32562.45
+        }
+      ],
+      "subtotal": 97977.55,
+      "tax_rate": 5.0,
+      "tax_amount": 4898.88,
+      "total": 102876.43
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 266
+    }
+  },
+  "inv_051": {
+    "invoice": {
+      "invoice_number": "INV-2026-0051",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-01-20",
+      "due_date": "2026-02-19",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Printing service",
+          "quantity": 5.0,
+          "unit_price": 15680.49,
+          "amount": 78402.45
+        },
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 14.0,
+          "unit_price": 17479.62,
+          "amount": 244714.68
+        },
+        {
+          "description": "Printing service",
+          "quantity": 4.0,
+          "unit_price": 1805.28,
+          "amount": 7221.12
+        }
+      ],
+      "subtotal": 330338.25,
+      "tax_rate": 12.0,
+      "tax_amount": 39640.59,
+      "total": 369978.84
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 319
+    }
+  },
+  "inv_052": {
+    "invoice": {
+      "invoice_number": "INV-2026-0052",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-01-01",
+      "due_date": "2026-02-15",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 18.0,
+          "unit_price": 7572.96,
+          "amount": 136313.28
+        }
+      ],
+      "subtotal": 136313.28,
+      "tax_rate": 18.0,
+      "tax_amount": 24536.39,
+      "total": 160849.67
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 211
+    }
+  },
+  "inv_053": {
+    "invoice": {
+      "invoice_number": "INV-2026-0053",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-05-20",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 17.0,
+          "unit_price": 5907.46,
+          "amount": 100426.82
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 1.0,
+          "unit_price": 24017.33,
+          "amount": 24017.33
+        },
+        {
+          "description": "Toner cartridge",
+          "quantity": 2.0,
+          "unit_price": 593.6,
+          "amount": 1187.2
+        },
+        {
+          "description": "Office chair",
+          "quantity": 14.0,
+          "unit_price": 2073.25,
+          "amount": 29025.5
+        }
+      ],
+      "subtotal": 154656.85,
+      "tax_rate": 28.0,
+      "tax_amount": 43303.92,
+      "total": 197960.77
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 371
+    }
+  },
+  "inv_054": {
+    "invoice": {
+      "invoice_number": "INV-2026-0054",
+      "vendor_name": "Bluewave Consulting",
+      "invoice_date": "2026-06-23",
+      "due_date": "2026-06-13",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 12.0,
+          "unit_price": 17080.04,
+          "amount": 204960.48
+        },
+        {
+          "description": "Printing service",
+          "quantity": 1.0,
+          "unit_price": 19936.75,
+          "amount": 19936.75
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 3.0,
+          "unit_price": 5170.2,
+          "amount": 15510.6
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 10.0,
+          "unit_price": 19158.13,
+          "amount": 191581.3
+        }
+      ],
+      "subtotal": 431989.13,
+      "tax_rate": 12.0,
+      "tax_amount": 51838.7,
+      "total": 483827.83
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 374
+    }
+  },
+  "inv_055": {
+    "invoice": {
+      "invoice_number": "INV-2026-0055",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-02-25",
+      "due_date": "2026-03-27",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Courier charges",
+          "quantity": 16.0,
+          "unit_price": 15271.95,
+          "amount": 244351.2
+        },
+        {
+          "description": "Laptop stand",
+          "quantity": 16.0,
+          "unit_price": 10454.88,
+          "amount": 167278.08
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 20.0,
+          "unit_price": 3702.26,
+          "amount": 74045.2
+        },
+        {
+          "description": "Software licence",
+          "quantity": 2.0,
+          "unit_price": 5363.08,
+          "amount": 10726.16
+        },
+        {
+          "description": "Laptop stand",
+          "quantity": 5.0,
+          "unit_price": 10413.85,
+          "amount": 52069.25
+        }
+      ],
+      "subtotal": 548469.89,
+      "tax_rate": 12.0,
+      "tax_amount": 65816.39,
+      "total": 614286.28
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 431
+    }
+  },
+  "inv_056": {
+    "invoice": {
+      "invoice_number": "INV-2026-0056",
+      "vendor_name": "Ganga Logistics",
+      "invoice_date": "2026-06-10",
+      "due_date": "2026-07-25",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 3.0,
+          "unit_price": 23293.31,
+          "amount": 69879.93
+        }
+      ],
+      "subtotal": 69879.93,
+      "tax_rate": 12.0,
+      "tax_amount": 8385.59,
+      "total": 78265.52
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 205
+    }
+  },
+  "inv_057": {
+    "invoice": {
+      "invoice_number": "INV-2026-0057",
+      "vendor_name": "Himalaya Stationers",
+      "invoice_date": "2026-08-28",
+      "due_date": "2026-09-27",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Network cable (50m)",
+          "quantity": 10.0,
+          "unit_price": 16627.53,
+          "amount": 166275.3
+        }
+      ],
+      "subtotal": 166275.3,
+      "tax_rate": 18.0,
+      "tax_amount": 29929.55,
+      "total": 196204.85
+    },
+    "usage": {
+      "input_tokens": 1132,
+      "output_tokens": 214
+    }
+  },
+  "inv_058": {
+    "invoice": {
+      "invoice_number": "INV-2026-0058",
+      "vendor_name": "Metro Hardware Co",
+      "invoice_date": "2026-05-24",
+      "due_date": "2026-06-23",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 12.0,
+          "unit_price": 10533.57,
+          "amount": 126402.84
+        }
+      ],
+      "subtotal": 126402.84,
+      "tax_rate": 12.0,
+      "tax_amount": 15168.34,
+      "total": 141571.18
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 211
+    }
+  },
+  "inv_059": {
+    "invoice": {
+      "invoice_number": "INV-2026-0059",
+      "vendor_name": "Shree Tech Supplies",
+      "invoice_date": "2026-06-08",
+      "due_date": "2026-07-08",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Office chair",
+          "quantity": 3.0,
+          "unit_price": 1278.97,
+          "amount": 3836.91
+        },
+        {
+          "description": "Office chair",
+          "quantity": 7.0,
+          "unit_price": 9349.22,
+          "amount": 65444.54
+        },
+        {
+          "description": "Office chair",
+          "quantity": 7.0,
+          "unit_price": 8116.56,
+          "amount": 56815.92
+        },
+        {
+          "description": "Courier charges",
+          "quantity": 1.0,
+          "unit_price": 15809.97,
+          "amount": 15809.97
+        }
+      ],
+      "subtotal": 141907.34,
+      "tax_rate": 28.0,
+      "tax_amount": 39734.06,
+      "total": 181741.4
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 367
+    }
+  },
+  "inv_060": {
+    "invoice": {
+      "invoice_number": "INV-2026-0060",
+      "vendor_name": "Apex Cloud Services",
+      "invoice_date": "2026-05-12",
+      "due_date": "2026-06-26",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "Consulting (hours)",
+          "quantity": 3.0,
+          "unit_price": 22468.87,
+          "amount": 67406.61
+        },
+        {
+          "description": "Software licence",
+          "quantity": 12.0,
+          "unit_price": 6844.25,
+          "amount": 82131.0
+        }
+      ],
+      "subtotal": 149537.61,
+      "tax_rate": 5.0,
+      "tax_amount": 7476.88,
+      "total": 157014.49
+    },
+    "usage": {
+      "input_tokens": 1160,
+      "output_tokens": 260
+    }
+  }
+}
