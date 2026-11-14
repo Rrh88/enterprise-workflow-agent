@@ -26,8 +26,8 @@
       "total": 267702.1
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 266
+      "input_tokens": 1214,
+      "output_tokens": 264
     }
   },
   "inv_002": {
@@ -69,8 +69,8 @@
       "total": 357320.12
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 375
+      "input_tokens": 1214,
+      "output_tokens": 376
     }
   },
   "inv_003": {
@@ -106,7 +106,7 @@
       "total": 302690.89
     },
     "usage": {
-      "input_tokens": 1132,
+      "input_tokens": 1186,
       "output_tokens": 321
     }
   },
@@ -155,7 +155,7 @@
       "total": 705158.9
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 433
     }
   },
@@ -192,7 +192,7 @@
       "total": 824228.34
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 328
     }
   },
@@ -229,8 +229,8 @@
       "total": 327545.1
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 322
+      "input_tokens": 1214,
+      "output_tokens": 330
     }
   },
   "inv_007": {
@@ -266,7 +266,7 @@
       "total": 423817.17
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 319
     }
   },
@@ -309,7 +309,7 @@
       "total": 880367.91
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 383
     }
   },
@@ -352,7 +352,7 @@
       "total": 378673.18
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 373
     }
   },
@@ -395,7 +395,7 @@
       "total": 411650.34
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 379
     }
   },
@@ -420,7 +420,7 @@
       "total": 126964.63
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 211
     }
   },
@@ -445,7 +445,7 @@
       "total": 509725.6
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 210
     }
   },
@@ -482,7 +482,7 @@
       "total": 406158.77
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 316
     }
   },
@@ -531,7 +531,7 @@
       "total": 868355.85
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 435
     }
   },
@@ -574,8 +574,8 @@
       "total": 411650.34
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 381
+      "input_tokens": 1214,
+      "output_tokens": 379
     }
   },
   "inv_016": {
@@ -617,7 +617,7 @@
       "total": 910157.71
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 384
     }
   },
@@ -648,8 +648,8 @@
       "total": 392025.6
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 263
+      "input_tokens": 1214,
+      "output_tokens": 266
     }
   },
   "inv_018": {
@@ -673,8 +673,8 @@
       "total": 22393.24
     },
     "usage": {
-      "input_tokens": 1132,
-      "output_tokens": 208
+      "input_tokens": 1186,
+      "output_tokens": 206
     }
   },
   "inv_019": {
@@ -698,8 +698,8 @@
       "total": 54017.31
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 206
+      "input_tokens": 1214,
+      "output_tokens": 205
     }
   },
   "inv_020": {
@@ -723,7 +723,7 @@
       "total": 344796.83
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 208
     }
   },
@@ -766,7 +766,7 @@
       "total": 414415.15
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 373
     }
   },
@@ -809,7 +809,7 @@
       "total": 653544.08
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 376
     }
   },
@@ -852,8 +852,8 @@
       "total": 338890.37
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 386
+      "input_tokens": 1214,
+      "output_tokens": 376
     }
   },
   "inv_024": {
@@ -883,7 +883,7 @@
       "total": 211041.35
     },
     "usage": {
-      "input_tokens": 1132,
+      "input_tokens": 1186,
       "output_tokens": 260
     }
   },
@@ -914,7 +914,7 @@
       "total": 133694.86
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 261
     }
   },
@@ -963,8 +963,8 @@
       "total": 415047.26
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 427
+      "input_tokens": 1214,
+      "output_tokens": 428
     }
   },
   "inv_027": {
@@ -1000,8 +1000,8 @@
       "total": 104314.25
     },
     "usage": {
-      "input_tokens": 1132,
-      "output_tokens": 319
+      "input_tokens": 1186,
+      "output_tokens": 317
     }
   },
   "inv_028": {
@@ -1037,7 +1037,7 @@
       "total": 312577.1
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 316
     }
   },
@@ -1080,7 +1080,7 @@
       "total": 653544.08
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 376
     }
   },
@@ -1117,8 +1117,8 @@
       "total": 312577.1
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 318
+      "input_tokens": 1214,
+      "output_tokens": 316
     }
   },
   "inv_031": {
@@ -1154,7 +1154,7 @@
       "total": 290131.92
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 330
     }
   },
@@ -1191,7 +1191,7 @@
       "total": 83823.24
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 308
     }
   },
@@ -1234,8 +1234,8 @@
       "total": 428220.83
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 368
+      "input_tokens": 1214,
+      "output_tokens": 370
     }
   },
   "inv_034": {
@@ -1259,7 +1259,7 @@
       "total": 298964.94
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 209
     }
   },
@@ -1284,8 +1284,8 @@
       "total": 1149.18
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 202
+      "input_tokens": 1214,
+      "output_tokens": 200
     }
   },
   "inv_036": {
@@ -1333,7 +1333,7 @@
       "total": 758990.72
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 427
     }
   },
@@ -1376,8 +1376,8 @@
       "total": 278003.66
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 376
+      "input_tokens": 1214,
+      "output_tokens": 374
     }
   },
   "inv_038": {
@@ -1407,7 +1407,7 @@
       "total": 245010.49
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 262
     }
   },
@@ -1432,7 +1432,7 @@
       "total": 147216.9
     },
     "usage": {
-      "input_tokens": 1132,
+      "input_tokens": 1186,
       "output_tokens": 208
     }
   },
@@ -1463,8 +1463,8 @@
       "total": 221151.01
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 270
+      "input_tokens": 1214,
+      "output_tokens": 268
     }
   },
   "inv_041": {
@@ -1506,7 +1506,7 @@
       "total": 680545.27
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 384
     }
   },
@@ -1531,7 +1531,7 @@
       "total": 147357.9
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 210
     }
   },
@@ -1568,8 +1568,8 @@
       "total": 408695.05
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 321
+      "input_tokens": 1214,
+      "output_tokens": 318
     }
   },
   "inv_044": {
@@ -1593,7 +1593,7 @@
       "total": 332549.38
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 209
     }
   },
@@ -1642,7 +1642,7 @@
       "total": 758990.72
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 427
     }
   },
@@ -1667,7 +1667,7 @@
       "total": 108178.36
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 209
     }
   },
@@ -1686,19 +1686,19 @@
           "amount": 68586.2
         },
         {
-          "description": "Courier charges",
+          "description": "Printing service",
           "quantity": 3.0,
           "unit_price": 4408.64,
           "amount": 13225.92
         },
         {
-          "description": "Printing service",
+          "description": "Consulting (hours)",
           "quantity": 3.0,
           "unit_price": 8016.23,
           "amount": 24048.69
         },
         {
-          "description": "Consulting (hours)",
+          "description": "Courier charges",
           "quantity": 9.0,
           "unit_price": 20243.49,
           "amount": 182191.41
@@ -1710,8 +1710,8 @@
       "total": 302454.83
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 370
+      "input_tokens": 1214,
+      "output_tokens": 368
     }
   },
   "inv_048": {
@@ -1741,8 +1741,8 @@
       "total": 223873.13
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 265
+      "input_tokens": 1214,
+      "output_tokens": 263
     }
   },
   "inv_049": {
@@ -1784,8 +1784,8 @@
       "total": 1118347.51
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 379
+      "input_tokens": 1214,
+      "output_tokens": 377
     }
   },
   "inv_050": {
@@ -1815,7 +1815,7 @@
       "total": 102876.43
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 266
     }
   },
@@ -1852,8 +1852,8 @@
       "total": 369978.84
     },
     "usage": {
-      "input_tokens": 1132,
-      "output_tokens": 319
+      "input_tokens": 1186,
+      "output_tokens": 317
     }
   },
   "inv_052": {
@@ -1877,8 +1877,8 @@
       "total": 160849.67
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 211
+      "input_tokens": 1214,
+      "output_tokens": 209
     }
   },
   "inv_053": {
@@ -1920,8 +1920,8 @@
       "total": 197960.77
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 371
+      "input_tokens": 1214,
+      "output_tokens": 369
     }
   },
   "inv_054": {
@@ -1963,8 +1963,8 @@
       "total": 483827.83
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 374
+      "input_tokens": 1214,
+      "output_tokens": 373
     }
   },
   "inv_055": {
@@ -2012,8 +2012,8 @@
       "total": 614286.28
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 431
+      "input_tokens": 1214,
+      "output_tokens": 429
     }
   },
   "inv_056": {
@@ -2037,7 +2037,7 @@
       "total": 78265.52
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 205
     }
   },
@@ -2059,10 +2059,10 @@
       "subtotal": 166275.3,
       "tax_rate": 18.0,
       "tax_amount": 29929.55,
-      "total": 196204.85
+      "total": 196304.85
     },
     "usage": {
-      "input_tokens": 1132,
+      "input_tokens": 1186,
       "output_tokens": 214
     }
   },
@@ -2087,7 +2087,7 @@
       "total": 141571.18
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 211
     }
   },
@@ -2130,8 +2130,8 @@
       "total": 181741.4
     },
     "usage": {
-      "input_tokens": 1160,
-      "output_tokens": 367
+      "input_tokens": 1214,
+      "output_tokens": 365
     }
   },
   "inv_060": {
@@ -2161,7 +2161,7 @@
       "total": 157014.49
     },
     "usage": {
-      "input_tokens": 1160,
+      "input_tokens": 1214,
       "output_tokens": 260
     }
   }
