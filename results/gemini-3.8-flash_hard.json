@@ -1,0 +1,85 @@
+{
+  "inv_001": {
+    "invoice": {
+      "invoice_number": "INV-2026-0001",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-06-30",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 13.0,
+          "unit_price": 16290.82,
+          "amount": 211780.66
+        },
+        {
+          "description": "Software licence",
+          "quantity": 18.0,
+          "unit_price": 2398.54,
+          "amount": 43173.72
+        }
+      ],
+      "subtotal": 254954.38,
+      "tax_rate": 5.0,
+      "tax_amount": 12747.72,
+      "total": 267702.1
+    },
+    "usage": {
+      "input_tokens": 1214,
+      "output_tokens": 179
+    }
+  },
+  "inv_002": {
+    "invoice": {
+      "invoice_number": "INV-2026-0002",
+      "vendor_name": "Delta Print Works",
+      "invoice_date": "2026-02-14",
+      "due_date": "2026-03-01",
+      "currency": "INR",
+      "line_items": [
+        {
+          "description": "A4 paper (ream)",
+          "quantity": 14.0,
+          "unit_price": 1792.89,
+          "amount": 25100.46
+        },
+        {
+          "description": "Software licence",
+          "quantity": 18.0,
+          "unit_price": 10641.75,
+          "amount": 191551.5
+        },
+        {
+          "description": "Software licence",
+          "quantity": 4.0,
+          "unit_price": 23688.87,
+          "amount": 94755.48
+        },
+        {
+          "description": "Network cable (50m)",
+          "quantity": 2.0,
+          "unit_price": 14448.72,
+          "amount": 28897.44
+        }
+      ],
+      "subtotal": 340304.88,
+      "tax_rate": 5.0,
+      "tax_amount": 17015.24,
+      "total": 357320.12
+    },
+    "usage": {
+      "input_tokens": 1214,
+      "output_tokens": 250
+    }
+  },
+  "inv_003": {
+    "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  },
+  "inv_004": {
+    "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  },
+  "inv_005": {
+    "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  }
+}

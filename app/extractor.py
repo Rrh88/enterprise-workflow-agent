@@ -14,6 +14,7 @@ load_dotenv()
 
 # Requests-per-minute limits from this account's AI Studio rate-limit page
 RPM = {"gemini-3.5-flash-lite": 15, "gemini-3.8-flash": 5}
+TIMEOUT_MS = 90_000  # give up on one request after 90 seconds (milliseconds, as far as I know)
 
 PROMPT = (
     "Extract the invoice data from the attached document (PDF or image) into the given JSON schema. "
@@ -51,7 +52,10 @@ class InvoiceOut(BaseModel):
 class Extractor:
     def __init__(self, model: str = "gemini-3.5-flash-lite"):
         self.model = model
-        self.client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        self.client = genai.Client(
+            api_key=os.environ["GEMINI_API_KEY"],
+            http_options=types.HttpOptions(timeout=TIMEOUT_MS),
+        )
         self.min_gap = 60 / RPM.get(model, 5) + 1  # seconds between calls
         self._last = 0.0
 
@@ -70,6 +74,7 @@ class Extractor:
             if wait > 0:
                 time.sleep(wait)
             self._last = time.time()
+            print(f"  sending {path.name} to {self.model} (attempt {attempt + 1})", flush=True)
             try:
                 resp = self.client.models.generate_content(
                     model=self.model, contents=[doc, PROMPT], config=config
@@ -79,7 +84,8 @@ class Extractor:
                 usage = {"input_tokens": u.prompt_token_count, "output_tokens": u.candidates_token_count}
                 return Invoice(**out.model_dump()), usage
             except Exception as e:
-                transient = any(s in str(e) for s in ("429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"))
+                transient = any(s in str(e) for s in ("429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE", "timed out", "Timeout"))
+                print(f"  error: {str(e)[:200]}", flush=True)
                 if not transient or attempt == retries:
                     raise
                 time.sleep(30 * (attempt + 1))
