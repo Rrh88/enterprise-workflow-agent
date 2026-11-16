@@ -121,3 +121,11 @@ def process(graph, doc_path: str):
 
 def resume(graph, cfg, decision: str, by: str = "reviewer", edits: dict | None = None):
     return graph.invoke(Command(resume={"decision": decision, "by": by, "edits": edits or {}}), cfg)
+
+
+def sqlite_checkpointer(path: str = "data/checkpoints.db"):
+    """Saves graph state in a database file, so a paused review survives a program restart."""
+    import sqlite3
+    from langgraph.checkpoint.sqlite import SqliteSaver
+    Path(path).parent.mkdir(exist_ok=True)
+    return SqliteSaver(sqlite3.connect(path, check_same_thread=False))

@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 data/ledger.jsonl
 data/audit.jsonl
+data/checkpoints.db
